@@ -1,8 +1,7 @@
-package com.example.demo.test.dev;
+package com.example.demo.test.jy;
 
-public class dev {
+public class devTest {
     public static void main(String[] args) {
         System.out.println("args = " + args);
-
     }
 }
